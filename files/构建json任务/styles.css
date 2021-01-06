@@ -5391,7 +5391,7 @@
   left:0px;
   top:0px;
   width:467px;
-  height:261px;
+  height:295px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -5409,9 +5409,9 @@
   border-width:0px;
   position:absolute;
   left:1474px;
-  top:52px;
+  top:35px;
   width:467px;
-  height:261px;
+  height:295px;
   text-align:left;
   line-height:22px;
 }
@@ -5459,5 +5459,30 @@
   left:2px;
   top:2px;
   width:463px;
+  word-wrap:break-word;
+}
+#u1603_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:20px;
+  height:20px;
+}
+#u1603 {
+  border-width:0px;
+  position:absolute;
+  left:1218px;
+  top:87px;
+  width:20px;
+  height:20px;
+}
+#u1604 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:16px;
+  visibility:hidden;
   word-wrap:break-word;
 }
